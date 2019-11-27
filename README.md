@@ -1,4 +1,4 @@
-# specials
+# notserious = unseriös = Fakeshops
 
 Was soll das hier sein???
 
@@ -19,3 +19,10 @@ Wenn Sie sich einbringen wollen, können Sie uns die URLs per eMail an RPIList@g
 <b>ABER bitte nur die URLs einsenden, die auch in die zuvor genannte Nische passen. D.h. die Standard-Phishing-URL brauchen wir NICHT in unserer Liste. Die werden i.d.R. innerhalb von 24 Std. von Safebrowsing erkennt und verschwinden selbst dann auch wieder nach 48 Std. Ferner werden diese URLs auch schon von anderen beliebten Listen auf dem Pi-Hole geführt. Es ist also nicht das Ziel einfach nur viele URLs anzusammeln.</b>
 
 Man darf gespannt bleiben. :-)
+
+
+# Image Download unter:
+# http://sempervideo.de/svpihole1911.img
+
+sha256: 86134d69d18994754cbf367fc5b5e269060bf2b8aa7aff4b16f0109b72a7175f <br>
+md5: 5aefe8ee2fe041813318d056fa1ed085
