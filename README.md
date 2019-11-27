@@ -1,4 +1,5 @@
-# notserious = unseriös = Fakeshops
+# notserious
+##### englisch für unseriös, betreffend Fakeshops
 
 Was soll das hier sein???
 
